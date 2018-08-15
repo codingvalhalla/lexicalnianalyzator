@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/ž%20Govno/V2/NetBeans%20Projects/ioop/LexicalniAnalyzator/src/com/codingvalhalla/meredith/lexicalnianalyzator/LexAnal.java</file>
+            <file>file:/D:/ž%20Govno/V2/NetBeans%20Projects/ioop/LexicalniAnalyzator/src/com/codingvalhalla/meredith/lexicalnianalyzator/ListHandler.java</file>
+            <file>file:/D:/ž%20Govno/V2/NetBeans%20Projects/ioop/LexicalniAnalyzator/src/com/codingvalhalla/meredith/lexicalnianalyzator/tokens/NumberToken.java</file>
+            <file>file:/D:/ž%20Govno/V2/NetBeans%20Projects/ioop/LexicalniAnalyzator/src/com/codingvalhalla/meredith/lexicalnianalyzator/tokens/IdentificatorToken.java</file>
+            <file>file:/D:/ž%20Govno/V2/NetBeans%20Projects/ioop/LexicalniAnalyzator/src/com/codingvalhalla/meredith/lexicalnianalyzator/tokens/WhitespaceToken.java</file>
+            <file>file:/D:/ž%20Govno/V2/NetBeans%20Projects/ioop/LexicalniAnalyzator/src/com/codingvalhalla/meredith/lexicalnianalyzator/MainClass.java</file>
+            <file>file:/D:/ž%20Govno/V2/NetBeans%20Projects/ioop/LexicalniAnalyzator/src/com/codingvalhalla/meredith/lexicalnianalyzator/tokens/KeyToken.java</file>
+            <file>file:/D:/ž%20Govno/V2/NetBeans%20Projects/ioop/LexicalniAnalyzator/src/com/codingvalhalla/meredith/lexicalnianalyzator/tokens/OperatorToken.java</file>
+            <file>file:/D:/ž%20Govno/V2/NetBeans%20Projects/ioop/LexicalniAnalyzator/src/com/codingvalhalla/meredith/lexicalnianalyzator/tokens/Tokens.java</file>
+            <file>file:/D:/ž%20Govno/V2/NetBeans%20Projects/ioop/LexicalniAnalyzator/src/com/codingvalhalla/meredith/lexicalnianalyzator/tokens/SeparatorToken.java</file>
+            <file>file:/D:/ž%20Govno/V2/NetBeans%20Projects/ioop/LexicalniAnalyzator/test.txt</file>
+        </group>
+    </open-files>
+</project-private>

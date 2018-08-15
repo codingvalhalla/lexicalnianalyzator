@@ -1,0 +1,6 @@
+Begin
+a,b=100;
+abcde12345abcde12345abcde12345abcde12345abcde12345;
+a+b=200;
+c=0x10;
+End;
